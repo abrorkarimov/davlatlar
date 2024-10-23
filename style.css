@@ -1,0 +1,31 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.inp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 500px;
+    font-size: 200%;
+}
+.hidden{
+    display: none;
+}
+   
+
+
+
+
